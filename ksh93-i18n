@@ -1,0 +1,3 @@
+#!/usr/bin/env ksh
+export NLSPATH=locale/%l/%N.cat
+echo $"Hello World!"
